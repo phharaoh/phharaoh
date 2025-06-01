@@ -22,4 +22,4 @@ Flutter Developer | Open Source Contributor | UI/UX Enthusiast
 - 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hegazy-b2a220270)
-- 📧 Email : eng.ahmed7gazy@gmail.com
+- 📧 Email : ahmedhegazy.dev.eg@gmail.com
