@@ -9,17 +9,17 @@ Flutter Developer | Open Source Contributor | UI/UX Enthusiast
 
 ### Flutter Expertise
 - Cross-platform mobile app development
-- State management (Provider, Riverpod, Bloc)
+- State management (Provider, Cubit, Bloc)
 - Firebase integration (Auth, Firestore, Cloud Functions)
 - Custom UI/UX implementations
 - CI/CD pipelines for Flutter apps
 - Testing (Unit, Widget, Integration)
 
 ### Other Technologies
-- Dart
-- RESTful APIs ,Firebase, Bloc 
+- Dart 
+- RESTful APIs ,Firebase,cubit
 - Git | GitHub Actions
-- 
+
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hegazy-b2a220270)
 - 📧 Email : ahmedhegazy.dev.eg@gmail.com
